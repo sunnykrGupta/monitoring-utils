@@ -1,0 +1,10 @@
+{
+    "status":"success",
+    "data":{
+        "resultType":"vector",
+        "result":[{
+                "metric":{"job":"my_kafka_cluster"},
+                "value":[1554108126.065,"39047.558333333334"]
+            }]
+    }
+}%
